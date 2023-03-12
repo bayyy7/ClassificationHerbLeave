@@ -1,9 +1,13 @@
 # Classification Herb Leave
 Classification using Convolutional Neural Network with VGG16 Architecture + Fine Tuning <br>
+Only run with 10 epoch because limitations of my laptop ^.^ .<br>
+you can run with >50 epoch to get better result.<br>
 ### While using only CNN Architecture :<br>
 - Accuracy : 84.57%<br>
+- Loss : 68.04%<br>
 ### Using VGG16 Architecture + Fine Tuning:<br>
 - Accuracy : 94.17%<br>
+- Loss : 46.12%<br>
 # Data
 get data using this link https://data.mendeley.com/datasets/s82j8dh4rr
 # Cite 
