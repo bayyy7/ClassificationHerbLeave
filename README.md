@@ -1,5 +1,5 @@
 # Classification Herb Leave
-Classification using Convolutional Neural Network
+Classification using Convolutional Neural Network with VGG16 Architecture
 # Data
 get data using this link https://data.mendeley.com/datasets/s82j8dh4rr
 # Cite 
