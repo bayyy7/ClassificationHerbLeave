@@ -1,6 +1,9 @@
 # Classification Herb Leave
-Classification using Convolutional Neural Network with VGG16 Architecture /n
-lal
+Classification using Convolutional Neural Network with VGG16 Architecture + Fine Tuning\
+While using only CNN Architecture :\
+- Accuracy : 84.57%
+Using VGG16 Architecture + Fine Tuning:\
+- Accuracy : 94.17%
 # Data
 get data using this link https://data.mendeley.com/datasets/s82j8dh4rr
 # Cite 
